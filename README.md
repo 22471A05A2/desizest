@@ -1,27 +1,48 @@
-# Desi Zest
+# DesiZest 🍽️ – A Responsive Restaurant Website (Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+DesiZest is a modern, stylish, and responsive restaurant website built using the **Angular framework**.  
+It offers a mobile-friendly user interface, clean code structure, and SCSS-based custom theming.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+##  Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- ✔️ Built with Angular CLI and TypeScript
+- ✔️ Mobile-responsive and retina ready
+- ✔️ Modular component-based architecture
+- ✔️ Custom SCSS theme and reusable styles
+- ✔️ SPA with Angular routing
+- ✔️ Easy to customize and expand
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Project Structure
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+├── e2e/ # End-to-end testing setup
+├── node_modules/ # Dependencies (auto-generated)
+├── src/ # Main application source
+│ ├── app/ # Angular components & modules
+│ │ ├── components/ # Reusable UI components
+│ │ ├── services/ # Services for data/API (optional)
+│ │ └── app.module.ts # Root Angular module
+│ ├── assets/ # Static files like images, fonts
+│ ├── environments/ # Environment config files
+│ ├── custom-theme.scss # Your custom SCSS theme
+│ ├── index.html # Main HTML entry point
+│ ├── main.ts # Angular bootstrap file
+│ ├── styles.css # Global styles
+│ └── ... # Other Angular files
+├── angular.json # Angular project configuration
+├── package.json # Project metadata & dependencies
+├── package-lock.json # Dependency lock file
+├── README.md # Project documentation
+└── tsconfig.json # TypeScript compiler configuration
 
-## Running end-to-end tests
+# Navigate to project folder
+cd desizest
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Install dependencies
+npm install
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Start the Angular dev server
+ng serve
