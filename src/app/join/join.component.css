@@ -1,0 +1,175 @@
+.page{
+    background-color: antiquewhite;
+    height:90vh;
+}
+
+.main-page{
+    height:55vh;
+    background-image: url("https://images.moneycontrol.com/static-mcnews/2022/04/La-P%C3%B4z-Place_Food-Images-1-770x433.jpg?impolicy=website&width=770&height=431");
+    background-size: cover;
+}
+
+.btn1{
+    height:50px;
+    width:350px;
+    background-color:rgb(12, 127, 234);
+    color:white;
+    font-family:geneva;
+    font-size:18px;
+    border-radius:10px;
+    border-width:0px;
+    margin-top:3px;
+}
+
+.btn2{
+    height:50px;
+    width:350px;
+    background-color:white;
+    color:black;
+    font-family:geneva;
+    font-size:18px;
+    border-radius:10px;
+    border-width:0px;
+    margin-top: 3px;
+}
+
+h1{
+    color:white;
+    text-align:center;
+    padding-top:40px;
+    font-size:40px;
+    font-family:georgia;
+}
+
+.para{
+    color:white;
+    text-align:center;
+    padding-top:10px;
+    font-family:georgia;
+    font-size:20px;
+}
+.sub-container{
+    border-radius:35px;
+    background-color:white;
+    height:30vh;
+    margin-left:480px;
+    margin-top:60px;
+    width:650px;
+}
+
+
+
+.head1{
+    font-family:georgia;
+    font-size:30px;
+    padding-left:100px;
+    color:black;
+    padding-top:20px;
+}
+
+.head2{
+    font-family:georgia;
+    font-size:18px;
+    padding-left:95px;
+    color:black;
+   
+}
+
+.heading{
+    font-family:cursive;
+    font-size:35px;
+    text-align:center;
+    color:black;
+    padding-top:40px;
+}
+
+.para3{
+    color:black;
+    text-align:center;
+    padding-top:10px;
+    font-size:20px;
+}
+
+.container3{
+    height:60vh;
+    background-color: white;
+}
+
+.small-conatiner{
+    height:300px;
+    width:300px;
+    box-shadow: 5px 5px 5px 5px rgb(156, 153, 153);
+    border-radius: 10px;
+    margin-top:80px;
+    border-radius:1px;
+}
+
+.button1{
+    height:150px;
+    width:350px;
+    background-color: antiquewhite;
+    color:black;
+    margin-top: 50px;
+    border-radius: 20px;
+    border-width:0px;
+    box-shadow: 3px 3px 3px 3px rgb(116, 115, 115);
+}
+
+.aa{
+    padding-left:30px;
+    font-size:23px;
+}
+
+.spana{
+    padding-left:35px;
+    color:black;
+    font-size:18px;
+}
+
+.container4{
+    background-image: url("https://img.freepik.com/free-vector/watercolor-background-with-hand-drawn-elements_23-2148867455.jpg?w=1060&t=st=1708089570~exp=1708090170~hmac=e30f0d5b04adb6b360c025f7d99f997d066afa92efc617a395d6675a87999c28");
+    background-size: cover;
+    height:50vh;
+}
+
+.container5{
+    border-radius:30px;
+    background-color:white;
+    height:40vh;
+    margin-top:90px;
+    border-width:1px;
+    width:300px;
+    box-shadow: 2px 2px 2px 2px rgb(116, 115, 115);
+    text-align:center;
+}
+
+.conimg{
+    padding-left:25px;
+    padding-top:30px;
+    height:130px;
+    width:180px;
+    padding-bottom: 20px;
+    
+}
+
+.container6{
+    background-color: rgb(189, 228, 250);
+    margin-top:150px;
+    height:35vh;
+    text-align:center;
+}
+
+input{
+    height:45px;
+    border-width:0px;
+    padding-left:20px;
+    color:black;
+    font-size:20px;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+section{
+    background-color: rgb(189, 228, 250) ;
+}
+
