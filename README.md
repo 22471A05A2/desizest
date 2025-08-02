@@ -1,4 +1,4 @@
-# DesiZest 🍽️ – A Responsive Restaurant Website (Angular)
+# DesiZest  – A Responsive Restaurant Website (Angular)
 
 DesiZest is a modern, stylish, and responsive restaurant website built using the **Angular framework**.  
 It offers a mobile-friendly user interface, clean code structure, and SCSS-based custom theming.
